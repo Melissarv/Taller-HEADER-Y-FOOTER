@@ -10,11 +10,9 @@ header{
     margin-right:0px;
     margin-bottom: 2000px;
     margin-top: 0px;
-    position: fixed;
-    }
+    position: fixed;}
 
 div a{
-    background-color: rgb(71, 255, 209);
     padding: 0px;
     top: 50px;
     bottom: 50px;
@@ -23,17 +21,24 @@ div a{
     margin-left: 150px;
     margin-right: 80px;
     margin-bottom: 5px;
-    border: teal;}
+    border: teal;
+    font-family: 'Shippori Mincho', serif;
+    text-decoration: none;
+    text-decoration-color: black;}
 
 div button{
     background-color: rgba(187, 240, 227, 0.938);
     padding-left: 50px;
-    padding-right: 50px;}
+    padding-right: 50px;
+    transform: transition;
+    font-family: 'Shippori Mincho', serif;}
 
 div p{
     left: 120px;
     padding-left: 700px;
-}
+    transform: transition;}
+   
+   
     img.Logo2{
         width: 80px;
         height: 80px;
