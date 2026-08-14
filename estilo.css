@@ -1,0 +1,95 @@
+header{
+    background-color:cadetblue;
+    width: 1500px;
+    height: 200px;
+    display: block;
+    margin: 500px;
+    padding-top: 10px;
+    padding-right:10px;
+    margin-left: 0px;
+    margin-right:0px;
+    margin-bottom: 2000px;
+    margin-top: 0px;
+    position: fixed;}
+
+div a{
+    padding: 0px;
+    top: 50px;
+    bottom: 50px;
+    float:right;
+    float: left;
+    margin-left: 150px;
+    margin-right: 80px;
+    margin-bottom: 5px;
+    border: teal;
+    font-family: 'Shippori Mincho', serif;
+    text-decoration: none;
+    text-decoration-color: black;
+    color: burlywood;
+    border-radius: 8px;}
+
+    a:hover{background-color: rgba(222, 163, 135, 0.678);}
+    a:active{color:rgba(235, 146, 104, 0.993);}
+    
+
+
+div button{
+    background-color: rgba(222, 184, 135, 0.678);
+    padding-left: 50px;
+    padding-right: 50px;
+    transform: transition;
+    font-family: 'Shippori Mincho', serif;
+    border-radius: 0.5px 5px 0;}
+
+    button:hover{background-color: rgba(231, 138, 16, 0.678);}
+    button:active{color:rgb(192, 98, 55);}
+
+div p{
+    left: 120px;
+    padding-left: 700px;
+    transform: transition;}
+   
+   
+    img.Logo2{
+        width: 80px;
+        height: 80px;
+        padding-top: 0,200px;
+        padding-left: 40px;
+        padding-bottom: 20px;
+        margin:auto;
+        display: block;
+        margin-top: 0.200px;
+        margin-left: 0px;
+        margin-right: 0px;}
+        
+
+     img.logo1{
+         width: 70px;
+         height: 70px;
+         padding: 1px;
+         margin:auto;
+         display: block;
+         padding-top: 40px;}
+         
+body{
+    width: 1000px;
+    height: 100px;
+    top: auto;
+    bottom: auto;
+    padding-bottom: 1000px;
+   
+}
+footer{
+    top: 100px;
+    background-color:cadetblue;
+    width: 1500px;
+    height: 150px;
+    padding: 0px;
+    display: block;
+    margin-right:20px;
+    margin-left: 0px;
+    position:absolute;
+    top: 1000px;}
+
+
+
